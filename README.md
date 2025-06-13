@@ -1,4 +1,4 @@
-# 📷 Text QR Code Generator (com.gombik.qrbuilder)
+# 📷 Text QR Code Generator
 
 **Text QR Code Generator** is a simple, fast, and privacy-friendly Android app that lets you generate QR codes from any text — completely offline and ad-free.
 
